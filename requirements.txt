@@ -1,0 +1,6 @@
+flask
+flask_restfull
+mysql-connector-python
+pytz
+requests
+gunicorn
